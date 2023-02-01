@@ -1,5 +1,5 @@
 ![alt text](https://github.com/jmsfilipe/jmsfilipe/blob/main/header.png "Hi there, I'm Jorge")
 
-![alt text](https://github.com/jmsfilipe/jmsfilipe/blob/main/linkfire_logo.svg "Linkfire logo") Currently working as Front-end developer, at Linkfire 
+![alt text](https://github.com/jmsfilipe/jmsfilipe/blob/main/sanders_stay_logo.svg "Sanders Stay logo") Currently working as Lead Front-end, at Sanders Stay 
 
-🎵 Disrupting the music industry like a boss.
+🎵 Disrupting the short term rental industry like a boss.
